@@ -64,7 +64,7 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/ashutosh0203/QuickMart.git
 cd Quick-Mart
-
+```
 ### 📦 Install Dependencies
 
 #### Frontend
